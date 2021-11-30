@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.exe
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.deps.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\bin\Debug\netcoreapp3.1\Algoritmo_29.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_29\Algoritmo_29\obj\Debug\netcoreapp3.1\Algoritmo_29.genruntimeconfig.cache

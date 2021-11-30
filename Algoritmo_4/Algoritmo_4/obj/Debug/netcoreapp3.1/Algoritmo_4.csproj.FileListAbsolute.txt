@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.exe
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.deps.json
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.dll
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\bin\Debug\netcoreapp3.1\Algoritmo_4.pdb
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.dll
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.pdb
+C:\Users\USUARIO\source\repos\Algoritmo_4\Algoritmo_4\obj\Debug\netcoreapp3.1\Algoritmo_4.genruntimeconfig.cache

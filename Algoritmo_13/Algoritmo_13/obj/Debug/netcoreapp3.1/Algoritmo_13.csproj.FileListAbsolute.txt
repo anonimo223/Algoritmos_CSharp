@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.exe
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.deps.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\bin\Debug\netcoreapp3.1\Algoritmo_13.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_13\Algoritmo_13\obj\Debug\netcoreapp3.1\Algoritmo_13.genruntimeconfig.cache

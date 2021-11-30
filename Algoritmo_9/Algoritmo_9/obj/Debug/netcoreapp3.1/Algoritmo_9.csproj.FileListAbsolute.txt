@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.exe
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.deps.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\bin\Debug\netcoreapp3.1\Algoritmo_9.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_9\Algoritmo_9\obj\Debug\netcoreapp3.1\Algoritmo_9.genruntimeconfig.cache

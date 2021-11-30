@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.exe
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.deps.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\bin\Debug\netcoreapp3.1\Algoritmo_20.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_20\Algoritmo_20\obj\Debug\netcoreapp3.1\Algoritmo_20.genruntimeconfig.cache

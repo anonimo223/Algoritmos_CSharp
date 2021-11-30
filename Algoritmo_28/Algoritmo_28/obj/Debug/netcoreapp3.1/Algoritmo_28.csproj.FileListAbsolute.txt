@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.exe
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.deps.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\bin\Debug\netcoreapp3.1\Algoritmo_28.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.dll
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.pdb
+C:\Users\USUARIO\Downloads\Algoritmos_Carlos\Algoritmo_28\Algoritmo_28\obj\Debug\netcoreapp3.1\Algoritmo_28.genruntimeconfig.cache
